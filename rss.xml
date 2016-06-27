@@ -4,7 +4,7 @@
         <description><![CDATA[Sean Flinn]]></description>
         <link>https://thegrid.ai/sean-flinn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 18:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 18:27:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sean-flinn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/sean-flinn/blah-blah-blah/index.html</link>
             <guid isPermaLink="false">4377ce0b-41c8-4d34-b6be-3981a69bb4db</guid>
             <pubDate>Mon, 27 Jun 2016 18:06:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Day one trying out the grid</p>]]></description>
-            <link>https://thegrid.ai/sean-flinn/day-one-trying-out-the-grid/index.html</link>
-            <guid isPermaLink="false">13663fcf-3600-4abb-ae73-99b97b03a739</guid>
-            <pubDate>Mon, 27 Jun 2016 17:15:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
