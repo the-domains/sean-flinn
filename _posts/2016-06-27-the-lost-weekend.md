@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-27T18:57:50.698Z'
-dateModified: '2016-06-27T18:57:37.930Z'
+datePublished: '2016-06-27T19:12:35.127Z'
+dateModified: '2016-06-27T19:00:22.805Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-27-the-lost-weekend.md
@@ -17,6 +17,8 @@ url: the-lost-weekend/index.html
 _type: Article
 
 ---
+[The Lost Weekend][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7b76bee-4d6e-4afd-bd70-3f520c038b29.jpg)
 
-#
+
+[0]: https://vimeo.com/100084310
