@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sean Flinn]]></title>
+        <description><![CDATA[Sean Flinn]]></description>
+        <link>https://thegrid.ai/sean-flinn/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 27 Jun 2016 17:15:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sean-flinn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Day one trying out the grid</p>]]></description>
+            <link>https://thegrid.ai/sean-flinn/day-one-trying-out-the-grid/index.html</link>
+            <guid isPermaLink="false">13663fcf-3600-4abb-ae73-99b97b03a739</guid>
+            <pubDate>Mon, 27 Jun 2016 17:15:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
