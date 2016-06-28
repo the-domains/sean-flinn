@@ -1,6 +1,6 @@
 name: Sean Flinn
 favicon: null
-layout_spectrum: 0.56427
+layout_spectrum: 0.94717
 typography_spectrum: 0.50676
 title: Sean Flinn
 cta:
@@ -22,8 +22,8 @@ color:
     - '#47352f'
     - '#e2dde4'
     - '#77635d'
-  brandStrength: 0.5
-  lightness: 0.5625
+  brandStrength: 0.8125
+  lightness: 0.375
   saturation: 0.5625
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
