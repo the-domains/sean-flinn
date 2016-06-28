@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Biography '
-datePublished: '2016-06-28T20:23:28.650Z'
-dateModified: '2016-06-28T20:23:28.290Z'
+datePublished: '2016-06-28T20:26:55.426Z'
+dateModified: '2016-06-28T20:25:26.923Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-06-28-biography.md
+starred: true
 url: biography/index.html
 _type: Article
 
